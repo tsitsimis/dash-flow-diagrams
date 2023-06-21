@@ -1,3 +1,6 @@
+.tmp/
+file_system_backend/
+
 # Created by .ignore support plugin (hsz.mobi)
 ### Webpack
 .build_cache
